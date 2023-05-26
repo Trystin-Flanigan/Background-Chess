@@ -27,4 +27,21 @@
 - Gameplay elements
     - Checkmate detection
     - Prevent illegal moves
+### Project Needs
+Going into a project with a completely new programming language like this, naturally there will be many growing pains. For my personal use I will be documenting expected challenges and project needs here:
+- The basics of Rust
+    - Variables
+    - Looping
+    - I/O
+    - Syntax
+- Rust Unit Testing
+- Min\Max & Alpha Beta Pruning Algorithms
+- Niche chess rules
+
+**Note:** These needs and goals can and will be changed and reevaluated as the project develops and grows.
+
+# Phase 1: Design
+---
+This phase will produce rough pseudocode and generally lay out how the project should be structured.
+
 
